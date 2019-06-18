@@ -2,4 +2,4 @@
 切换：git checkout name
 so easy
 
-how solve conflict
+how to deal with conflict

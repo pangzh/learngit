@@ -1,3 +1,5 @@
 创建：git checkout -b name
 切换：git checkout name
 so easy
+
+how solve conflict
